@@ -1,6 +1,6 @@
 {
-  "name": "react-reduxjs-tookit",
-  "version": "0.1.0",
+  "name": "<%= projectName %>",
+  "version": "<%= projectVersion %>",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",

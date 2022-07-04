@@ -5,7 +5,7 @@
 /.pnp
 .pnp.js
 package-lock.json
-yarn-loca.json
+yarn-lock.json
 # testing
 /coverage
 
